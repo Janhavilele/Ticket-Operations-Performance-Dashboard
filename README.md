@@ -63,7 +63,7 @@ This cleaned data feeds directly into the dashboard.
 **5. Features:**
 
 
-_• Business Problem:_
+**_• Business Problem:_**
 
 Operations and engineering teams often struggle to quickly understand ticket volumes, open backlogs, and product/platform-specific issues.
 
@@ -81,7 +81,7 @@ is difficult with raw logs.
 
 
 
-_• Goal of the Dashboard:_
+**_• Goal of the Dashboard:_**
 
 - To provide a clear, interactive, and actionable tool that:
 
@@ -97,7 +97,7 @@ _• Goal of the Dashboard:_
 
 
 
-_• Walkthrough of Key Visuals:_
+**_• Walkthrough of Key Visuals:_**
 
 **i) KPI Cards (Top Section)**
 
@@ -131,7 +131,7 @@ Shows the distribution of tickets across different operational platforms for res
 
 
 
-_• Business Impact & Insights:_
+**_• Business Impact & Insights:_**
 
 - Operational Efficiency: Understand overall ticket load and resolution status
 
