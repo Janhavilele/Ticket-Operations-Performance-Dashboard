@@ -55,13 +55,15 @@ This project was developed using the following tools and technologies:
 
 - Created Resolution Time column (Resolved - Created)
 
-= Mapped status to two final values: "Open" and "Resolved"
+- Mapped status to two final values: "Open" and "Resolved"
 
 This cleaned data feeds directly into the dashboard.
 
+
 **5. Features:**
 
-• Business Problem
+
+_• Business Problem:_
 
 Operations and engineering teams often struggle to quickly understand ticket volumes, open backlogs, and product/platform-specific issues.
 
@@ -78,7 +80,8 @@ Answering questions such as:
 is difficult with raw logs.
 
 
-• Goal of the Dashboard
+
+_• Goal of the Dashboard:_
 
 - To provide a clear, interactive, and actionable tool that:
 
@@ -93,7 +96,8 @@ is difficult with raw logs.
 - Monitors ticket lifecycle efficiency
 
 
-• Walkthrough of Key Visuals:
+
+_• Walkthrough of Key Visuals:_
 
 **i) KPI Cards (Top Section)**
 
@@ -126,7 +130,8 @@ Identifies which Ops Product Names generate the highest ticket volume.
 Shows the distribution of tickets across different operational platforms for resource planning.
 
 
-• Business Impact & Insights
+
+_• Business Impact & Insights:_
 
 - Operational Efficiency: Understand overall ticket load and resolution status
 
@@ -141,4 +146,4 @@ Shows the distribution of tickets across different operational platforms for res
 
 **6. Screenshot:**
 
-![Dashboard Screenshot](https://github.com/Janhavilele/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG)
+![Dashboard Screenshot](https://github.com/Janhavilele/Ticket-Operations-Performance-Dashboard/blob/main/Dashboard.PNG)
