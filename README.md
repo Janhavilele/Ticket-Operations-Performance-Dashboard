@@ -97,40 +97,6 @@ is difficult with raw logs.
 
 
 
-**_• Walkthrough of Key Visuals:_**
-
-**i) KPI Cards (Top Section)**
-
-- Total Issues
-
-- Resolved Issues
-
-- Open Issues
-
-- Average Resolution Time (Days)
-
-- Max Resolution Time (Days)
-
-These provide an at-a-glance understanding of the system performance.
-
-**ii) Issue by Status (Bar Chart):**
-
-Displays volume of open vs. resolved issues, helping teams identify backlog and closure rate.
-
-**iii) Issue by Resolution Duration (Histogram / Column Chart):**
-
-Shows how many tickets fall into various resolution time ranges, highlighting extreme delays or quick resolutions.
-
-**iv) Issues by Product Name (Bar Chart):**
-
-Identifies which Ops Product Names generate the highest ticket volume.
-
-**v) Issues by Ops Platform (Bar Chart):**
-
-Shows the distribution of tickets across different operational platforms for resource planning.
-
-
-
 **_• Business Impact & Insights:_**
 
 - Operational Efficiency: Understand overall ticket load and resolution status
@@ -146,4 +112,5 @@ Shows the distribution of tickets across different operational platforms for res
 
 **6. Screenshot:**
 
-![Dashboard Screenshot](https://github.com/Janhavilele/Ticket-Operations-Performance-Dashboard/blob/main/Dashboard.PNG)
+![Dashboard Screenshot](https://github.com/Janhavilele/Ticket-Operations-Performance-Dashboard/blob/main/Ticket%20Overview.PNG)
+![Dashboard Screenshot](https://github.com/Janhavilele/Ticket-Operations-Performance-Dashboard/blob/main/Resolution%20Analysis.PNG)
